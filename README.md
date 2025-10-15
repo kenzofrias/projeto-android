@@ -6,3 +6,8 @@
 
 <h2>Link</h2>
 <p>Vocês podem vizualizar o site ⇒ <a href="https://kenzofrias.github.io/projeto-android/">clicando aqui</a> ⇐</p>
+
+<h2>Tecnologias</h2>
+
+![](https://img.shields.io/badge/-HTML5-e54c25?logo=html5\&logoColor=white\&style=plastic)
+![](https://img.shields.io/badge/-CSS3-1f63ae?logo=css\&logoColor=white\&style=plastic)
